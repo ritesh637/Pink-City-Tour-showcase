@@ -46,11 +46,10 @@ It focuses on delivering a **seamless user experience** with a visually appealin
 
 ---
 
-🌐 Live Website
-👉 https://pinkcitytour.in/
+
 
 👨‍💻 Author
-Ritesh 
+    Ritesh 
 🌐 Portfolio: https://ritesh-portfolio-2026.vercel.app/
 
 💼 FullStack Developer | UI/UX Enthusiast
